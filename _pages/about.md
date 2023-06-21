@@ -24,6 +24,7 @@ social: true  # includes social icons at the bottom of the page
 - **2022.08 - Now**
 
 ***Candidate Statement***
+
 As we tackle climate change through decarbonization of power and energy systems, our industry faces significant challenges and opportunities. PES stands at the forefront of innovation and progress, leading the way in cutting-edge technologies.
 I am eager to outline my goals for PES: fostering global collaboration, innovation, and inclusion. These target a sustainable, reliable, and equitable energy future with special attention to boosting the role of Women in Engineering and underprivileged regions.
 My vision leverages PES’s strengths to lead the global transition towards decarbonization, digitalization, and decentralization of power and energy systems. I propose a five-step plan: establishing stronger local partnerships, internationalizing PES through diverse connections, developing targeted marketing and outreach, boosting region- and minority-tailored membership development, and enhancing member support. I am committed to working with PES members to achieve these goals, ensuring PES remains a vital resource worldwide.
@@ -48,37 +49,38 @@ Before rejoining the department, Prof. Chung was a Professor, the NSERC/SaskPowe
 - IEEE IAS Outstanding Small Joint Chapter awards in 2008.
   
 ***IEEE Accomplishments/Activities***
+
 I have served the IEEE PES in various leadership positions. Some of my IEEE and PES activities are highlighted below.
 
-- **IEEE PES**
--- Governing Board Member-at-large (Global Outreach) (2016-2018).
--- Governing Board Member-at-large (Smart Grid) (2015).
--- Long Range Plan Subcommittee Member (Future directions) (2016-2018).
--- Fellows Nomination Resource Committee Member (2023-present).
--- Fellows Evaluation Committee Member (2019-2021).
--- Region 10 North Chapter Representative (2014-2015).
--- IEEE Hong Kong Joint Chapter of PES/IAS/PELS/IES: Chair (2007-2009); Vice-Chair (2006); Honorary Treasurer (2004-2005); and Honorary Secretary (2002-2003). 
--- Counselor of the IEEE PES Student Branch Chapter at the University of Saskatchewan (2018-2022).
+- IEEE PES
+  1. Governing Board Member-at-large (Global Outreach) (2016-2018).
+  2. Governing Board Member-at-large (Smart Grid) (2015).
+  3. Long Range Plan Subcommittee Member (Future directions) (2016-2018).
+  4. Fellows Nomination Resource Committee Member (2023-present).
+  5. Fellows Evaluation Committee Member (2019-2021).
+  6. Region 10 North Chapter Representative (2014-2015).
+  7. IEEE Hong Kong Joint Chapter of PES/IAS/PELS/IES: Chair (2007-2009); Vice-Chair (2006); Honorary Treasurer (2004-2005); and Honorary Secretary (2002-2003). 
+  8. Counselor of the IEEE PES Student Branch Chapter at the University of Saskatchewan (2018-2022).
 
-IEEE 
-- IEEE Canada Conference Advisory Committee (2016-2017).
-- IEEE Hong Kong Section: Chair (2011); Chair-elect (2010); Honorary Secretary (2009); and Executive Committee Member (2007-2008).
+- IEEE 
+    1. IEEE Canada Conference Advisory Committee (2016-2017).
+    2. IEEE Hong Kong Section: Chair (2011); Chair-elect (2010); Honorary Secretary (2009); and Executive Committee Member (2007-2008).
 
-IEEE Transactions 
-- IEEE Transactions on Sustainable Energy: Consulting Editor (2022-present); Associate Editor (2014-2020); and Guest Editor (2015) for Special Section on “Integration of Electrochemical Energy Storage in Sustainable Energy Systems”.
-- IEEE Transactions on Power Systems: Senior Editor (2020-2022); and Associate Editor (2017-2019).
-- IEEE PES Letters: Associate Editor (2017-present).
+- IEEE Transactions 
+    1. IEEE Transactions on Sustainable Energy: Consulting Editor (2022-present); Associate Editor (2014-2020); and Guest Editor (2015) for Special Section on “Integration of Electrochemical Energy Storage in Sustainable Energy Systems”.
+    2. IEEE Transactions on Power Systems: Senior Editor (2020-2022); and Associate Editor (2017-2019).
+    3. IEEE PES Letters: Associate Editor (2017-present).
 
-IEEE International Conferences
-- General Chair, IEEE EPEC (2017).
-- Chair, IEEE PES APPEEC (2014).
-- Co-Chair, IEEE TENCON (2015).
-- Co-Chair, IEEE PES APPEEC (2013).
-- Co-Chair, IEEE ICHQP (2012).
-- Technical Program Co-Chair, IEEE SmartGridComm (2023).
-- Honorary Secretary, IEEE IAS Annual Meeting (2005).
-- Honorary Secretary, IEEE DRPT (2004).
+- IEEE International Conferences
+    1. General Chair, IEEE EPEC (2017).
+    2. Chair, IEEE PES APPEEC (2014).
+    3. Co-Chair, IEEE TENCON (2015).
+    4. Co-Chair, IEEE PES APPEEC (2013).
+    5. Co-Chair, IEEE ICHQP (2012).
+    6. Technical Program Co-Chair, IEEE SmartGridComm (2023).
+    7. Honorary Secretary, IEEE IAS Annual Meeting (2005).
+    8. Honorary Secretary, IEEE DRPT (2004).
 
-IEEE PES Committees
-- IEEE PES Power System Dynamic Performance (PSDP) Committee: Technical Committee Program Chair (2022); and Member (2016-present).
-- IEEE PES Prabha S. Kundur Power System Dynamics and Control Award Committee: Member (2015-2019).
+- IEEE PES Committees
+    1. IEEE PES Power System Dynamic Performance (PSDP) Committee: Technical Committee Program Chair (2022); and Member (2016-present).
+    2. IEEE PES Prabha S. Kundur Power System Dynamics and Control Award Committee: Member (2015-2019).
