@@ -44,5 +44,3 @@ Along with [Prof. Chung Chi-Yung](https://www.polyu.edu.hk/ee/people/academic-st
 2.	Multimodal learning for defect/fault detection in smart grids
 3.	Big data-based energy policy analysis.
 
-Potential applicants are cordially invited to reach out to Dr. Zhang at [wenjie-ee.zhang[at]polyu.edu.hk](mailto:wenjie-ee.zhang@polyu.edu.hk), and kindly copy Prof. Chung at [c.y.chung[at]polyu.edu.hk](mailto:c.y.chung@polyu.edu.hk) with their inquiries. To be eligible for consideration as a postdoctoral fellow or research associate, it is required that applicants have received a degree from a top 150 university/institute in the world or have a related field of study that is ranked within the top 150. However, exceptional candidates who have demonstrated outstanding research outputs may be considered for admission, regardless of their institutional affiliation. For applicants from Mainland China, graduation from a 985/211 university/institute is required.
-
