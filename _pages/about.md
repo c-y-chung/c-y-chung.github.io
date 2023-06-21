@@ -7,14 +7,14 @@ subtitle: Head of Department of Electrical Engineering, Chair Professor of Power
 profile:
   align: right
   image: CYChung_Photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Chair Professor</p>
     <p>EEE</p>
     <p>PolyU</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ***Chair Professor***
@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 - **[The Hong Kong Polytechnic University]({{site.data.venues.PolyU.url}})**
 - **2022.08 - Now**
 
-***Candidate Statement***
+***IEEE PES President Candidate Statement***
 
 As we tackle climate change through decarbonization of power and energy systems, our industry faces significant challenges and opportunities. PES stands at the forefront of innovation and progress, leading the way in cutting-edge technologies.
 I am eager to outline my goals for PES: fostering global collaboration, innovation, and inclusion. These target a sustainable, reliable, and equitable energy future with special attention to boosting the role of Women in Engineering and underprivileged regions.
