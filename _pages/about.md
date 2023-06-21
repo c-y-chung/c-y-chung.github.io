@@ -37,6 +37,7 @@ social: true  # includes social icons at the bottom of the page
 - **2011.09 - 2015.06**
 
 Dr. Zhang's research interests focus on explainable and trustworthy AI and its applications in smart grids, with a broad scope encompassing big data analytics and multimodal learning. He has secured more than seven internal industrial funding as the principal investigator in companies and served as a principal researcher in four national research projects supported by government agencies such as the Energy Market Authority in Singapore and AI@SG.
+***Honors***
 
 ***Position Openings***
 
