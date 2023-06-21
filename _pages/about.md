@@ -26,10 +26,15 @@ social: true  # includes social icons at the bottom of the page
 ***IEEE PES President Candidate Statement***
 
 As we tackle climate change through decarbonization of power and energy systems, our industry faces significant challenges and opportunities. PES stands at the forefront of innovation and progress, leading the way in cutting-edge technologies.
+
 I am eager to outline my goals for PES: fostering global collaboration, innovation, and inclusion. These target a sustainable, reliable, and equitable energy future with special attention to boosting the role of Women in Engineering and underprivileged regions.
+
 My vision leverages PES’s strengths to lead the global transition towards decarbonization, digitalization, and decentralization of power and energy systems. I propose a five-step plan: establishing stronger local partnerships, internationalizing PES through diverse connections, developing targeted marketing and outreach, boosting region- and minority-tailored membership development, and enhancing member support. I am committed to working with PES members to achieve these goals, ensuring PES remains a vital resource worldwide.
+
 I bring extensive experience based on numerous IEEE and PES leadership positions and collaborations with renowned institutions. I am deeply motivated to serve as PES President and partner with the organization to achieve its mission.
-Biography
+
+***Biography***
+
 Prof. Chung received the B.Eng. degree (with First Class Honors) and the Ph.D. degree in electrical engineering from The Hong Kong Polytechnic University, China, in 1995 and 1999, respectively. He has worked for the University of Saskatchewan, Saskatoon, SK, Canada; Powertech Labs, Inc., Surrey, BC, Canada; the University of Alberta, Edmonton, AB, Canada; and The Hong Kong Polytechnic University, Hong Kong, China. His research interests include smart grid, micro grid, renewable energy, power system stability/control, planning and operation, applications of advanced optimization methods, power markets and electric vehicle charging.
 Before rejoining the department, Prof. Chung was a Professor, the NSERC/SaskPower Senior Industrial Research Chair in Smart Grid Technologies, and the SaskPower Chair in Power Systems Engineering at the University of Saskatchewan. He was a prominent leader for advancing academic activities and applied research in power systems engineering development in the province of Saskatchewan. He led a research team, supported by SaskPower and NSERC of Canada, to conduct cutting-edge and long-term smart grid research for SaskPower and address critical technical issues associated with smart grid technologies and their applications to real power systems. His research work has not only generated 3 US patents, 3 book chapters and over 300 publications, but has also resulted in successful transference of three new commercial software packages developed for power system analysis. Software package “Small Signal Analysis Tool (SSAT)” developed by him is now being used by over 140 power companies and nearly 100 universities worldwide. He has provided consultancy services to both government agencies and well-known private companies. He has also served as an editor for nine international power and energy systems journals. 
 
