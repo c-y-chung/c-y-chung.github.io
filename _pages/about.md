@@ -2,15 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Head of Department of Electrical Engineering, Chair Professor of Power Systems Engineering, Founding Director of Research Centre for Grid Modernisation # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Head of Department of Electrical Engineering, 
+Chair Professor of Power Systems Engineering, 
+Founding Director of Research Centre for Grid Modernisation # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: wenjie_zhang.jpeg
+  image: CYChung_Photo.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Research Assitant Professor</p>
-    <p>EE</p>
+    <p>Chair Professor</p>
+    <p>EEE</p>
     <p>PolyU</p>
 
 news: true  # includes a list of news items
