@@ -8,7 +8,7 @@ Founding Director of Research Centre for Grid Modernisation # <a href='#'>Affili
 
 profile:
   align: right
-  image: CYChung_Photo.png
+  image: CYChung_Photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Chair Professor</p>
