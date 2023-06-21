@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Head of Department of Electrical Engineering, 
-Chair Professor of Power Systems Engineering, 
-Founding Director of Research Centre for Grid Modernisation # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Head of Department of Electrical Engineering, Chair Professor of Power Systems Engineering, Founding Director of Research Centre for Grid Modernisation # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
