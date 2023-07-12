@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vote for IEEE PES 2023 President-Election
-date: 2023-07-12 16:11:00-0400
+date: 2023-07-11 16:11:00-0400
 inline: false
 related_posts: false
 ---
