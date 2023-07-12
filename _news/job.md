@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-14 15:59:00-0400
+date: 2014-10-14 15:59:00-0400
 inline: true
 ---
 
-I am officially appointed as FAAIA.
+I was appointed Professor and SaskPower Chair in Power Systems Engineering at the Department of Electrical and Computer Engineering, University of Saskatchewan!
