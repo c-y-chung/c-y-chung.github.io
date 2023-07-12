@@ -23,6 +23,8 @@ social: true  # includes social icons at the bottom of the page
 - **[The Hong Kong Polytechnic University]({{site.data.venues.PolyU.url}})**
 - **2022.08 - Now**
 
+**[Please Vote for Me](https://www.polyu.edu.hk/ee/docdrive/cy.chung/index.html)**
+
 ***IEEE PES President Candidate Statement***
 
 As we tackle climate change through decarbonization of power and energy systems, our industry faces significant challenges and opportunities. PES stands at the forefront of innovation and progress, leading the way in cutting-edge technologies.
