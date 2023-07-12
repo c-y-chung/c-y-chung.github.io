@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Vote for IEEE PES 2023 President-Election
-date: 2023-07-11 16:11:00-0400
+title: Vote for IEEE PES President-Election
+date: 2023-07-12 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Help shape PES future: A vote for collaboration, inclusion, and innovation 
+Vote for IEEE PES President
 
 ***
 
-As you may know, I’m honored to be a candidate for the position of President-Elect in the 2023 IEEE PES elections. I’m kindly requesting your valuable vote. With your support, I believe we can drive innovation, foster global expansion, champion diversity and inclusion, and nurture an environment that bolsters revolutionary ideas, ensuring a bright future for IEEE PES.
-
-The voting portal will be available from 17 July 2023 to 1 October 2023. You may find the voting instructions below. 
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
 #### Hipster list
 <ul>
