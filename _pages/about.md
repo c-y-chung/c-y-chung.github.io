@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 - **[The Hong Kong Polytechnic University]({{site.data.venues.PolyU.url}})**
 - **2022.08 - Now**
 
-**[Please Vote for Me](https://www.polyu.edu.hk/ee/docdrive/cy.chung/index.html)**
+**[Please Vote for Me](https://eballot.app/ieee)**
 
 ***IEEE PES President Candidate Statement***
 
