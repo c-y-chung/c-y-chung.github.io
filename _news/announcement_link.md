@@ -18,4 +18,4 @@ The voting portal will be available from 17 July 2023 to 1 October 2023 (EST). Y
 
 #### Voting instructions
 
-Coming soon...
+**[Please Vote for Me](https://eballot.app/ieee)**
